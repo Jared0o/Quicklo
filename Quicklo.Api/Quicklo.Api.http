@@ -1,0 +1,6 @@
+@Quicklo_Api_HostAddress = https://localhost:7082
+
+GET {{Quicklo_Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
